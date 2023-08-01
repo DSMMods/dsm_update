@@ -1,3 +1,3 @@
 versionName=0.0
-webpageUrl=https://ymmods.net/
+webpageUrl=https://www.dsmmods.download/?m=1
 dialogTitle=DSM Mini WhatsApp v1.0
