@@ -1,2 +1,2 @@
-versionName=2
+versionName=1
 webpageUrl=https://dsmmods.download
