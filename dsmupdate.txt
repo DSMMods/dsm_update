@@ -1,2 +1,2 @@
-versionName=2
-webpageUrl=https://www.dsmmods.download/2023/12/dsm-whatsapp-v23f.html
+versionName=5
+webpageUrl=https://www.spmods.download/2024/02/sp-whatsapp-v510.html
